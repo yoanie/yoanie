@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, wanderer! Warm welcomes to my profile! 👋
 
 ## **Current Initiative: [Snurder Game](https://github.com/yoanie/snailgame)**
 Snurder Game is a side GameMaker project made in GameMaker's own programming language. Collaborating with [OneRandomProgrammer](https://github.com/OneRandomProgrammer), this project tests my branch knowledge and gives me real project working experience!
