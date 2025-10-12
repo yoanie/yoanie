@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+## **Current Initiative: [Snurder Game](https://github.com/yoanie/snailgame)**
+Snurder Game is a side GameMaker project made in GameMaker's own programming language. Collaborating with [OneRandomProgrammer](https://github.com/OneRandomProgrammer), this project tests my branch knowledge and gives me real project working experience!
+
+---
+### Github Stats:
+[![My GitHub stats](https://readme-stats.nozemi.io/api?username=yoanie&show_icons=true&theme=dark)](https://readme-stats.nozemi.io)
+
 <!--
 **yoanie/yoanie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
