@@ -5,7 +5,7 @@ I'm currently a Computer Systems Engineering student trying to dabble in new and
 Wikibot is a for-fun Discord bot aiming to bring the world of Wikipedia (and the Wikimedia Foundation) right into your server. Planned to come with many fun things, such as a daily article, an in-text channel way to read anything that interests you, and potentially even some games! Will be coded entirely within Python using the Wikipedia API.
 
 Past interesting projects:
-- Snurder Game | A Gamemaker project about a human's imminent demise. My first real, hands-on experience working with version control alongside other programmers!
+- [Snurder Game](https://github.com/yoanie/snailgame) | A Gamemaker project about a human's imminent demise. My first real, hands-on experience working with version control alongside other programmers!
 
 ---
 ### Github Stats:
