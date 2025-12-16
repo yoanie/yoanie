@@ -1,7 +1,11 @@
 ## Hello, wanderer! Warm welcomes to my profile! 👋
+I'm currently a Computer Systems Engineering student trying to dabble in new and interesting things that I come across! When it comes to my projects, I like to breathe a lot of life into the things that I do, so some of these projects will be a little time consuming to come out, but I'll do my best to make it as good as I can! Out of everything Computer Science, however, I am interested in creating optimized algorithms, interconnected systems that make up a program's engine, as well as homelabbing! If anything about what I do interests you or if you would like to collaborate on anything based on my existing portfolio, please contact me at clawdancestudios@gmail.com! I'd love to chat about anything!
 
-## **Current Initiative: [Snurder Game](https://github.com/yoanie/snailgame)**
-Snurder Game is a side GameMaker project made in GameMaker's own programming language. Collaborating with [OneRandomProgrammer](https://github.com/OneRandomProgrammer), this project tests my branch knowledge and gives me real project working experience!
+## **Current Undertaking: [Wikibot](https://github.com/yoanie/wikibot)**
+Wikibot is a for-fun Discord bot aiming to bring the world of Wikipedia (and the Wikimedia Foundation) right into your server. Planned to come with many fun things, such as a daily article, an in-text channel way to read anything that interests you, and potentially even some games! Will be coded entirely within Python using the Wikipedia API.
+
+Past interesting projects:
+- Snurder Game | A GameMaker project about a human's imminent demise. My first real, hands-on experience working with version control alongside other programmers!
 
 ---
 ### Github Stats:
