@@ -1,11 +1,11 @@
 ## Hello, wanderer! Warm welcomes to my profile! 👋
-I'm currently a Computer Systems Engineering student trying to dabble in new and interesting things that I come across! When it comes to my projects, I like to breathe a lot of life into the things that I do, so some of these projects will be a little time consuming to come out, but I'll do my best to make it as good as I can! Out of everything Computer Science, however, I am interested in creating optimized algorithms, interconnected systems that make up a program's engine, as well as homelabbing! If anything about what I do interests you or if you would like to collaborate on anything based on my existing portfolio, please contact me at clawdancestudios@gmail.com! I'd love to chat about anything!
+I'm currently a Computer Systems Engineering student trying to dabble in new and interesting things that I come across! When it comes to my projects, I like to breathe a lot of life into the things that I do. As a result, some of these projects will take a little time to come out, but I'll do my best to make it as good as I can! I want to explore everything related to computers, but out of everything, I am most interested in creating optimized algorithms, interconnected systems that make up a program's engine, as well as homelabbing! If anything about what I do interests you or if you would like to collaborate on anything based on my existing portfolio, please contact me at clawdancestudios@gmail.com! I'd love to chat about anything that interests you!
 
 ## **Current Undertaking: [Wikibot](https://github.com/yoanie/wikibot)**
 Wikibot is a for-fun Discord bot aiming to bring the world of Wikipedia (and the Wikimedia Foundation) right into your server. Planned to come with many fun things, such as a daily article, an in-text channel way to read anything that interests you, and potentially even some games! Will be coded entirely within Python using the Wikipedia API.
 
 Past interesting projects:
-- Snurder Game | A GameMaker project about a human's imminent demise. My first real, hands-on experience working with version control alongside other programmers!
+- Snurder Game | A Gamemaker project about a human's imminent demise. My first real, hands-on experience working with version control alongside other programmers!
 
 ---
 ### Github Stats:
